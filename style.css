@@ -1,0 +1,54 @@
+#corpo 
+{
+    background-color: rgb(178, 188, 233);
+}
+
+.titulo
+{
+    color: rgb(199, 6, 135);
+    text-align: center;
+}
+
+.paragrafo
+{
+    font-size: 26px;
+    text-align: justify;
+}
+
+.botao
+{
+    background-color: rgb(199, 6, 135);
+    display: block;
+    color: white;
+    margin: 0 auto;
+}
+
+#mensagem
+{
+    display: none; 
+    text-align: center;
+    color: blue;
+    margin-top: 10px;
+}
+
+.lista
+{
+    margin-bottom: 20px;
+}
+
+.imagem
+{
+  border-radius: 20px;
+}
+
+.tabela
+{
+    background-color: rgb(171, 214, 200);
+    color: rgb(131, 24, 173);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.link:hover
+{
+    color: yellow;
+}
